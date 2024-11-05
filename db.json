@@ -1,0 +1,193 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "bookTitle": "Book1",
+      "bookPrice": 500,
+      "author": "James Bond",
+      "pageCount": 100,
+      "ISBN": "978-3-16-148410-0",
+      "bookDescription": "Crime"
+    },
+    {
+      "id": 2,
+      "bookTitle": "Book2",
+      "bookPrice": 501,
+      "author": "James Bond",
+      "pageCount": 100,
+      "ISBN": "978-3-16-148410-0",
+      "bookDescription": "Crime"
+    },
+    {
+      "id": 3,
+      "bookTitle": "Book3",
+      "bookPrice": 502,
+      "author": "James Bond",
+      "pageCount": 100,
+      "ISBN": "978-3-16-148410-0",
+      "bookDescription": "Crime"
+    },
+    {
+      "id": 4,
+      "bookTitle": "Book4",
+      "bookPrice": 493,
+      "author": "James Bond",
+      "pageCount": 100,
+      "ISBN": "978-3-16-148410-0",
+      "bookDescription": "Crime"
+    },
+    {
+      "id": 5,
+      "bookTitle": "Book5",
+      "bookPrice": 493,
+      "author": "James Bond",
+      "pageCount": 100,
+      "ISBN": "978-3-16-148410-0",
+      "bookDescription": "Crime"
+    },
+    {
+      "id": 6,
+      "bookTitle": "Book6",
+      "bookPrice": 500,
+      "author": "James Bond",
+      "pageCount": 100,
+      "ISBN": "978-3-16-148410-0",
+      "bookDescription": "Crime"
+    },
+    {
+      "id": 7,
+      "bookTitle": "Book7",
+      "bookPrice": 501,
+      "author": "James Bond",
+      "pageCount": 100,
+      "ISBN": "978-3-16-148410-0",
+      "bookDescription": "Crime"
+    },
+    {
+      "id": 8,
+      "bookTitle": "Book8",
+      "bookPrice": 502,
+      "author": "James Bond",
+      "pageCount": 100,
+      "ISBN": "978-3-16-148410-0",
+      "bookDescription": "Crime"
+    },
+    {
+      "id": 9,
+      "bookTitle": "Book9",
+      "bookPrice": 493,
+      "author": "James Bond",
+      "pageCount": 100,
+      "ISBN": "978-3-16-148410-0",
+      "bookDescription": "Crime"
+    },
+    {
+      "id": 10,
+      "bookTitle": "Book10",
+      "bookPrice": 493,
+      "author": "James Bond",
+      "pageCount": 100,
+      "ISBN": "978-3-16-148410-0",
+      "bookDescription": "Crime"
+    },
+    {
+      "id": 11,
+      "bookTitle": "Book11",
+      "bookPrice": 500,
+      "author": "James Bond",
+      "pageCount": 100,
+      "ISBN": "978-3-16-148410-0",
+      "bookDescription": "Crime"
+    },
+    {
+      "id": 12,
+      "bookTitle": "Book12",
+      "bookPrice": 501,
+      "author": "James Bond",
+      "pageCount": 100,
+      "ISBN": "978-3-16-148410-0",
+      "bookDescription": "Crime"
+    },
+    {
+      "id": 13,
+      "bookTitle": "Book13",
+      "bookPrice": 502,
+      "author": "James Bond",
+      "pageCount": 100,
+      "ISBN": "978-3-16-148410-0",
+      "bookDescription": "Crime"
+    },
+    {
+      "id": 14,
+      "bookTitle": "Book14",
+      "bookPrice": 493,
+      "author": "James Bond",
+      "pageCount": 100,
+      "ISBN": "978-3-16-148410-0",
+      "bookDescription": "Crime"
+    },
+    {
+      "id": 15,
+      "bookTitle": "Book15",
+      "bookPrice": 493,
+      "author": "James Bond",
+      "pageCount": 100,
+      "ISBN": "978-3-16-148410-0",
+      "bookDescription": "Crime"
+    },
+    {
+      "id": 16,
+      "bookTitle": "Book16",
+      "bookPrice": 500,
+      "author": "James Bond",
+      "pageCount": 100,
+      "ISBN": "978-3-16-148410-0",
+      "bookDescription": "Crime"
+    },
+    {
+      "id": 17,
+      "bookTitle": "Book17",
+      "bookPrice": 501,
+      "author": "James Bond",
+      "pageCount": 100,
+      "ISBN": "978-3-16-148410-0",
+      "bookDescription": "Crime"
+    },
+    {
+      "id": 18,
+      "bookTitle": "Book18",
+      "bookPrice": 502,
+      "author": "James Bond",
+      "pageCount": 100,
+      "ISBN": "978-3-16-148410-0",
+      "bookDescription": "Crime"
+    },
+    {
+      "id": 19,
+      "bookTitle": "Book19",
+      "bookPrice": 493,
+      "author": "James Bond",
+      "pageCount": 100,
+      "ISBN": "978-3-16-148410-0",
+      "bookDescription": "Crime"
+    },
+    {
+      "id": 20,
+      "bookTitle": "Book20",
+      "bookPrice": 493,
+      "author": "James Bond",
+      "pageCount": 100,
+      "ISBN": "978-3-16-148410-0",
+      "bookDescription": "Crime"
+    }
+  ],
+  "cart": [
+    
+  ],
+  "contactinfo": {
+    "name": "varsith Reddy Legala",
+    "ship": "H.no 1-15-36/A,Street no:1,Amrutha Colony,Swaroop nagar,Near venkateshwara swamy temple,Uppal,Hyderabad",
+    "pincode": "500039",
+    "Phonenumber": "9989162418"
+  }
+}
